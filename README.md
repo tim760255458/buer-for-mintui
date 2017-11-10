@@ -1,2 +1,2 @@
-# buer-for-mintui
-buer for mintUI
+# buer-for-iview
+buer for iview
